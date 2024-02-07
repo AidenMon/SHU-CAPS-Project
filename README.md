@@ -1,9 +1,14 @@
 # Concurrent and Parallel Systems - A Sheffield Hallam University Project
 This is a project that I was assigned to complete for my university in which we were to develop our own multithreaded server and a client/"Test Harness" utilizing C++ language.
-We were provided the means to connect the two servers via TCP communications but were not given any code for handeling individual clients connecting to a server.
+We were provided the means to connect the two servers via TCP communications but were not given any code for handeling individual clients connecting to a server.\
 
+I've also provided the Assignment Specifications as a PDF called "CAPS Assessment specifications 2022-23."\
+
+Below is the assignment description
 >Your task is to implement a C++ server for a simple discussion forum geared towards high traffic and short messages. The server should allow multiple clients to connect concurrently over the network, and to post and read messages on multiple topics.
 You must test your server in high-load scenarios and evaluate its throughput, depending on the number of connected clients and the nature of their interaction.\
+
+Here is what the professor provided to us
 
 >To support your development efforts, on the blackboard you can find:
 > - A C++ parser for the request format, with a “main” function showcasing how to use it.
@@ -11,7 +16,7 @@ You must test your server in high-load scenarios and evaluate its throughput, de
 > - A protocol verifier, which connects to your TCP server and verifies that the communication follows the required protocol.
 > - A reference implementation, which will provide the basis for the comparison of the speed of your implementation.\
 
-**The reference implementation was nothing more than two EXE files and no code whatsoever**
+**The reference implementation was nothing more than two EXE files and no code whatsoever and the parser was also a demonstration**
 
 ### —Contents of Archive—
 ```
