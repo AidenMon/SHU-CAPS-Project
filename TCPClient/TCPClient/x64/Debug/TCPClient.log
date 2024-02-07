@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\c0000279\Desktop\TCPClient\TCPClient\main.cpp(150,24): warning C4311: '<function-style-cast>': pointer truncation from 'char *' to 'int'
+C:\Users\c0000279\Desktop\TCPClient\TCPClient\main.cpp(150,24): warning C4302: '<function-style-cast>': truncation from 'char *' to 'int'
+C:\Users\c0000279\Desktop\TCPClient\TCPClient\main.cpp(151,24): warning C4311: '<function-style-cast>': pointer truncation from 'char *' to 'int'
+C:\Users\c0000279\Desktop\TCPClient\TCPClient\main.cpp(151,24): warning C4302: '<function-style-cast>': truncation from 'char *' to 'int'
+  TCPClient.vcxproj -> C:\Users\c0000279\Desktop\TCPClient\x64\Debug\TCPClient.exe

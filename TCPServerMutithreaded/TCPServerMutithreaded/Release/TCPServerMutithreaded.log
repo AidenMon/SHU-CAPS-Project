@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\c0000279\Desktop\TCPServerMutithreaded\TCPServerMutithreaded\main.cpp(110,49): warning C4018: '>': signed/unsigned mismatch
+  TCPClient.cpp
+  TCPServer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 446 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TCPServerMutithreaded.vcxproj -> C:\Users\c0000279\Desktop\TCPServerMutithreaded\Release\TCPServerMutithreaded.exe
